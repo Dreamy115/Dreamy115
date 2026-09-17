@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Dreamy115
-- 👀 I’m interested in Discord Bots, Minecraft Modding and Plugins, RPGs, roguelikes and other games!
-- 🌱 I’m currently learning Java and TypeScript.
-- 💞️ I’m looking to collaborate on my worldbuilding and TTRPG projects.
-- 📫 How to reach me on discord: dreamy115
+Creating on here since **2020**, and writing in general since **2017**.<br>
+I write discord bots, games, and tons of lore. Unafraid to step out of my comfort zone to learn new things.
 
-<!---
-Dreamy115/Dreamy115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Mostly here to make my ideas come to life.
+
+[Reach me on Discord](https://discordapp.com/users/215152890317111296)
